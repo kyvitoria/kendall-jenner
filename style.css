@@ -1,0 +1,12 @@
+body(
+    background: #00FFFF	;
+)
+
+h1(
+    text-align: center;
+    font-slize: 20px;
+)
+
+p(
+    text-align: center;
+)
