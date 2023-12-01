@@ -1,6 +1,11 @@
 body(
-    background: #00FFFF	;
+    background: #CCCCCC	;
 )
+
+
+   em strong (
+        color: red;
+    )
 
 h1(
     text-align: center;
